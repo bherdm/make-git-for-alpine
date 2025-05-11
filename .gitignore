@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Spotlight and Finder metadata
+._*
+.fseventsd
+Spotlight-V100
+.Trashes
+
+# macOS resource forks
+com.apple.*
